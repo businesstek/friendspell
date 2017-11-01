@@ -1,12 +1,16 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sqisland.friendspell">
+    package="com.iotashome.friendspell">
   <uses-permission android:name="android.permission.INTERNET" />
   <application
       android:name=".FriendSpellApplication"
       android:label="@string/app_name"
       android:icon="@drawable/ic_launcher"
       android:theme="@style/AppTheme">
+  <meta-data
+      android:name="com.google.android.nearby.messages.API_KEY"
+      android:value="AIzaSyClrBwVy4mvypn_ruMLoLUkaIzmCc22RnE" />
+
     <activity
         android:name=".activity.MainActivity"
         android:label="@string/app_name">

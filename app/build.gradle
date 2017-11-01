@@ -9,14 +9,14 @@ android {
   buildToolsVersion '25.0.3'
 
   defaultConfig {
-    applicationId 'com.sqisland.friendspell'
+    applicationId 'com.iotashome.friendspell'
     minSdkVersion 15
     targetSdkVersion 25
     versionCode 5
     versionName '1.1.1'
     vectorDrawables.useSupportLibrary = true
 
-    testInstrumentationRunner 'com.sqisland.friendspell.util.MockTestRunner'
+    testInstrumentationRunner 'com.iotashome.friendspell.util.MockTestRunner'
   }
 
   buildTypes {

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049646645700",
+    "project_id": "friendspell-184719"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049646645700:android:84a27ee46d2c9303",
+        "android_client_info": {
+          "package_name": "com.iotashome.friendspell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049646645700-6hv1nsoqrncroutkes45lurj3ii81kb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iotashome.friendspell",
+            "certificate_hash": "897906c8dcf442ea90115d9a973b4d80b02ce087"
+          }
+        },
+        {
+          "client_id": "1049646645700-od4umdv3vd5a16lj0o98avon3suql8v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQrUFfdwaCePzC8TLEn8aPagiwBPK52pE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
